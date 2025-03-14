@@ -1,0 +1,9 @@
+restaurant,Chambers Grill,Western,$$$$,10am - 11pm,4.6/5
+restaurant,Chynna,Chinese,$$$,3pm - 1am,3.8/5
+attraction,Petronas Twin Towers,10am - 10pm,Free
+attraction,KLCC Park,24hrs,Free
+operator,Tour Guide,RM20 per hour
+operator,Airport Transfer,RM80 per ride
+hotel,James Marriott Hotel,RM120 per pax per night,4.5/5
+hotel,Hotel Maluri,RM120 per pax per night,3.4/5
+

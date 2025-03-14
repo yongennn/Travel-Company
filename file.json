@@ -1,0 +1,184 @@
+{
+    "Groups": [
+        {
+            "Group ID": "group1",
+            "Group Name": "Group 1",
+            "Number of Pax": "4 pax",
+            "Contact Number": "43566789",
+            "Company": "Lovetravel.Sdn.Bhd"
+        },
+        {
+            "Group ID": "group2",
+            "Group Name": "lalalulu",
+            "Number of Pax": "5 pax",
+            "Contact Number": "12345678",
+            "Company": "globalcompany"
+        }
+    ],
+    "Individuals": [
+        {
+            "Username": "selenachua",
+            "Name": "Selena Chua",
+            "Phone": "013-7856789",
+            "Email": "selena@gmail.com"
+        },
+        {
+            "Username": "maxtan",
+            "Name": "Max Tan",
+            "Phone": "023-8899544",
+            "Email": "max@yahoo.my"
+        }
+    ],
+    "Recommendation": [
+        {
+            "Name": "Petronas Twin Tower",
+            "Description": "Petronas Twin Towers are the tallest twin towers in the world, and its status has remained unchallenged since 1996.",
+            "Attraction": [
+                "The Discovery Centre",
+                "Explore everything from space-age exhibits to fossils.",
+                "Driving a life-size Sauber PETRONAS Formula One racing car",
+                "Aquaria KLCC",
+                "Over 5,000 aquatic and land-bound",
+                "Experience cage rage and dive with shark"
+            ]
+        },
+        {
+            "Name": "KL Tower",
+            "Description": "KL Tower is a 421-meter-tall telecommunication tower in Kuala Lumpur, Malaysia. It is the world's seventh-tallest tower. The upper area of the tower contains a revolving restaurant, providing diners with a panoramic view of the city. There are some interesting activities to participate in the tower.",
+            "Attraction": [
+                "Enjoy the thrilling experience at KL Tower SKY BOX",
+                "Spectacular views of KL City skyline day and night",
+                "Challenged your self to the Tower Walk 100 at the edge of KL Tower",
+                "Get the best view of Kuala Lumpur from the KL Tower Malaysia Observation Deck"
+            ]
+        },
+        {
+            "Name": "Batu Caves",
+            "Description": "Batu Caves is a mogote with a series of limestone caves. The cave complex consists many Hindu temples. The complex also hosts a 43 m high Murugan statue, one of the largest Murugan statues in the world.",
+            "Attraction": [
+                "Colourful stairs with 272 steps",
+                "Enjoy the hourly dance performances, statues, and shrines"
+            ]
+        },
+        {
+            "Name": "Little India and Chinatown",
+            "Description": "Little India is home to the beloved mamak culture, food stalls that serve a delicious fusion of Malay and Tamil dishes. Chinatown serves local favorites such as Hokkien mee, Ikan Bakar, asam laksa, and curry noodles.",
+            "Attraction": [
+                "Enjoy traditional tea and Indian snacks",
+                "Discovering more about the Indian and Chinese community and their beliefs",
+                "Malaysia signature culinary dishes"
+            ]
+        }
+    ],
+    "Promotion": [
+        {
+            "Promo Code": "KLPASS119",
+            "Title": "Discover Wonderful KL",
+            "Description": "Free KL trip planner + 10% off hotels!",
+            "Discount": "8% off hotels booked",
+            "Valid Month": "August"
+        },
+        {
+            "Promo Code": "MD01",
+            "Title": "Mother Day In KL",
+            "Description": "Plan a magical Mother's Day in KL! Free trip planner & unforgettable memories",
+            "Discount": "RM25 cash voucher for food",
+            "Valid Month": "May"
+        },
+        {
+            "Promo Code": "FD06",
+            "Title": "Father's Day Promotion",
+            "Description": "Get 15% off for trip plan!",
+            "Discount": "15%",
+            "Valid Month": "June"
+        }
+    ],
+    "Tours": [
+        {
+            "Name": "KL Highlights Trip",
+            "Itineraries": [
+                "9:00 am-12:00 pm : Petronas Twin Towers",
+                "12:00 pm-1:30 pm : Lunch",
+                "1:45 pm-3:15 pm : KL Tower"
+            ],
+            "Available": [
+                "10/5/2024",
+                "24/5/2024",
+                "14/6/2024"
+            ],
+            "Price": {
+                "Adult": "RM150",
+                "Children": "RM100"
+            }
+        },
+        {
+            "Name": "KL Cultural Tour",
+            "Itineraries": [
+                "11:00 am-12:30 pm : Batu Caves",
+                "1:30 pm-2:45 pm : Chinatown and Little India"
+            ],
+            "Available": [
+                "10/5/2024",
+                "12/6/2024",
+                "14/6/2024"
+            ],
+            "Price": {
+                "Adult": "RM25",
+                "Children": "RM15"
+            }
+        },
+        {
+            "Name": "Petronas Twin Tower Halfday Trip",
+            "Itineraries": [
+                "9:00 am-1:00 pm : Petronas Twin Towers"
+            ],
+            "Available": [
+                "31/5/2024",
+                "10/6/2024",
+                "13/6/2024"
+            ],
+            "Price": {
+                "Adult": "RM100",
+                "Children": "RM75"
+            }
+        },
+        {
+            "Name": "KL Full Day Trip",
+            "Itineraries": [
+                "9:00 am-10:30 am : Batu Caves",
+                "10:50 am-12:00 pm : Chinatown and Little India",
+                "12:00 pm-1:30 pm : Lunch",
+                "1:45 pm-5:00 pm : Petronas Twin Towers",
+                "5:15 pm-6:30 pm : Dinner",
+                "6:50 pm-8:30 pm : KL Tower"
+            ],
+            "Available": [
+                "15/5/2024",
+                "7/6/2024",
+                "21/6/2024"
+            ],
+            "Price": {
+                "Adult": "RM200",
+                "Children": "RM150"
+            }
+        }
+    ],
+    "Services": [
+        {
+            "Assistance": "Translation",
+            "Price": "RM100 per pax per day"
+        },
+        {
+            "Assistance": "Tour Guide",
+            "Price": "RM120 per pax per day"
+        },
+        {
+            "Assistance": "Hotel",
+            "Price": "RM120 per pax per night"
+        },
+        {
+            "Assistance": "Airport Transfer",
+            "Price": "RM60 per pax per ride"
+        }
+    ]
+}

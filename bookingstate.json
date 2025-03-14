@@ -1,0 +1,49 @@
+{
+    "Travel Packages": [
+        {
+            "Booker name": "selenachua",
+            "Plan": "Family Package",
+            "Duration": "8 days and 7 night",
+            "Date": "6 September-13 September 2024",
+            "Price": "RM2044 for 4 pax"
+        },
+        {
+            "Booker name": "angiekoh",
+            "Plan": "Couple Package",
+            "Duration": "8 days and 7 night",
+            "Date": "31 August-8 September 2024",
+            "Price": "RM1055 for 2 pax"
+        },
+        {
+            "Booker name": "jacklow",
+            "Plan": "Solo Trip",
+            "Duration": "8 days and 7 night",
+            "Date": "1 June-8 June 2024",
+            "Price": "RM380 for per pax"
+        },
+        {
+            "Booker name": "maxtan",
+            "Plan": "Group Trip",
+            "Duration": "8 days and 7 night",
+            "Date": "1 December-8 December 2024",
+            "Price": "RM 12600 for 20 pax"
+        }
+    ],
+    "Services": [
+        {
+            "Booker name": "maxtan",
+            "Assistance": "Hotel",
+            "Price": "RM 120 per pax per night"
+        },
+        {
+            "Booker name": "maxtan",
+            "Assistance": "Airport Transfer",
+            "Price": "RM 60 per pax per ride"
+        },
+        {
+            "Booker name": "selenachua",
+            "Assistance": "Translation",
+            "Price": "RM100 per pax per day"
+        }
+    ]
+}
